@@ -1,0 +1,10 @@
+{
+    "info": "API endpoint for converting tensorflow models to onnx",
+    "required": "You will have to provide the tensorflow model and the required optiones listed below.",
+    "arguments": {
+        "model": "Model file in .h5 or as a folder",
+        "inputs": "",
+        "outputs": "",
+        "opset": ""
+    }
+}

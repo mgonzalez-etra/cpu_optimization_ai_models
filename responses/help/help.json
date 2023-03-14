@@ -1,0 +1,10 @@
+{
+    "info": "API for CPU optimization of torch and tensorflow models.",
+    "required": "To each endpoint you will have to provide the original model and the metadata for the specific conversion",
+    "help endpoints": [
+        "/help/tf2onnx",
+        "/help/tf2opemvino",
+        "/help/torch2onnx",
+        "/help/torch2openvino"
+    ]
+}
