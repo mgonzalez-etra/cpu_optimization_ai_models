@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: FastAPI",
+            "type": "python",
+            "request": "launch",
+            "module": "main",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: FastAPITest",
+            "type": "python",
+            "request": "launch",
+            "module": "tests",
+            "justMyCode": true,
+            "purpose": [
+                "debug-test"
+            ]
+        }
+    ]
+}

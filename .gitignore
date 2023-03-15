@@ -1,0 +1,6 @@
+__pycache__/
+.mypy_cache/
+.scannerwork/
+env/
+__pycache__*
+*.onnx

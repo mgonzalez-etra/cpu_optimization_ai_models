@@ -1,0 +1,4 @@
+{
+    "mypy.configFile": "/home/mgonzalez/tecnologia/cpu_optimization_ai_models/mypy.ini",
+    "python.defaultInterpreterPath": "env/bin/python"
+}
